@@ -129,7 +129,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "06c4b514-0341-47ca-bc0b-56974f486d42")
-		(at 256.06375 111.91875)
+		(at 238.135 76.1948)
 		(property "Reference" "SW42"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -532,7 +532,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "0e474e3b-ac6e-42b3-ac7e-ca3deb9c1263")
-		(at 246.52875 130.96875)
+		(at 228.6 95.2448)
 		(property "Reference" "SW55"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -935,7 +935,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "10172a61-7315-4984-9be4-409818309c99")
-		(at 79.85125 92.87395)
+		(at 61.9225 57.15)
 		(property "Reference" "SW18"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -1338,7 +1338,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-2.25U"
 		(layer "F.Cu")
 		(uuid "132cadcd-73b2-47da-859f-d130ec46179f")
-		(at 63.1725 130.97395)
+		(at 45.24375 95.25)
 		(property "Reference" "SW46"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -1769,7 +1769,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "15fbe821-1d28-40fb-8751-f8a82937ca78")
-		(at 70.31625 73.81875)
+		(at 52.3875 38.0948)
 		(property "Reference" "SW3"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -2172,7 +2172,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "197ff2cf-d46a-48d7-9a1e-c182fa75e192")
-		(at 101.2725 150.02395)
+		(at 83.34375 114.3)
 		(property "Reference" "SW62"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -2575,7 +2575,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "1e11d7d5-e55d-416f-8f4d-a1b8a017b84c")
-		(at 337.01625 150.02395)
+		(at 319.0875 114.3)
 		(property "Reference" "SW68"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -2978,7 +2978,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.75U"
 		(layer "F.Cu")
 		(uuid "1f19b906-28e6-4831-a467-faff474f632d")
-		(at 58.41 111.92395)
+		(at 40.48125 76.2)
 		(property "Reference" "SW32"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -3381,7 +3381,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "1fa8d6a0-b9d9-4b32-8f9f-0b7eaa5272e0")
-		(at 198.91375 111.92395)
+		(at 180.985 76.2)
 		(property "Reference" "SW39"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -3784,7 +3784,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "254c20ba-166c-4c22-bb34-54355df73215")
-		(at 244.1575 150.02395)
+		(at 226.22875 114.3)
 		(property "Reference" "SW64"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -4187,7 +4187,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "275cacfe-c8c0-47f9-a4bb-6872190e7dd8")
-		(at 151.28875 130.96875)
+		(at 133.36 95.2448)
 		(property "Reference" "SW50"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -4590,7 +4590,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "28ef9e41-b2bd-4b0b-9b17-2393ab344742")
-		(at 175.10125 92.87395)
+		(at 157.1725 57.15)
 		(property "Reference" "SW23"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -4993,7 +4993,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "2a56406b-80c2-4484-be37-757a6c61902e")
-		(at 232.24125 92.87395)
+		(at 214.3125 57.15)
 		(property "Reference" "SW26"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -5396,7 +5396,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.5U"
 		(layer "F.Cu")
 		(uuid "328c6c1c-609d-4de2-baae-c47e26476883")
-		(at 313.21375 92.86875)
+		(at 295.285 57.1448)
 		(property "Reference" "SW30"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -5799,7 +5799,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "32ef75cb-90a4-4367-953e-e6d2f68db42d")
-		(at 289.39125 92.87395)
+		(at 271.4625 57.15)
 		(property "Reference" "SW29"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -6202,7 +6202,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "33c4c6fd-ba8a-401f-bbd4-5349cb760fc9")
-		(at 227.47875 130.96875)
+		(at 209.55 95.2448)
 		(property "Reference" "SW54"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -6605,7 +6605,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "37641dd0-cfbb-43a5-9ddc-6d3189c6757e")
-		(at 98.90125 92.86875)
+		(at 80.9725 57.1448)
 		(property "Reference" "SW19"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -7008,7 +7008,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "3a9ac66c-f7b8-44eb-859c-33a0ccf2da3c")
-		(at 113.18875 130.96875)
+		(at 95.26 95.2448)
 		(property "Reference" "SW48"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -7411,7 +7411,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "3c1cf30e-b870-43c1-84bb-b797a8e84d42")
-		(at 89.36625 73.81875)
+		(at 71.4375 38.0948)
 		(property "Reference" "SW4"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -7814,7 +7814,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "421390fd-2608-46fa-a3b8-e9c3262896a8")
-		(at 117.94125 92.87395)
+		(at 100.0125 57.15)
 		(property "Reference" "SW20"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -8217,7 +8217,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "42e80fa2-4032-418c-af67-9adff44927be")
-		(at 160.81375 111.92395)
+		(at 142.885 76.2)
 		(property "Reference" "SW37"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -8620,7 +8620,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "4985ddf9-ad16-4ae3-8290-ca652653d226")
-		(at 337.02625 130.96875)
+		(at 319.0975 95.2448)
 		(property "Reference" "SW59"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -9023,7 +9023,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "593329f9-11ca-4ccf-a0b6-442095ec2d2a")
-		(at 317.97625 150.01875)
+		(at 300.0475 114.2948)
 		(property "Reference" "SW67"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -9426,7 +9426,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "5cc067fd-d8a6-4f28-8aff-06f5a385689a")
-		(at 208.42875 130.96875)
+		(at 190.5 95.2448)
 		(property "Reference" "SW53"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -9829,7 +9829,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "5f0db5a7-d8a5-4f80-b61b-e69473977736")
-		(at 260.82625 73.81875)
+		(at 242.8975 38.0948)
 		(property "Reference" "SW13"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -10232,7 +10232,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6423ff68-3789-454e-9e19-9cef282b7f2d")
-		(at 337.02625 73.81875)
+		(at 319.0975 38.0948)
 		(property "Reference" "SW16"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -10635,7 +10635,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.5U"
 		(layer "F.Cu")
 		(uuid "657d8473-32f7-456c-9758-5fcc06d4bdce")
-		(at 56.02875 92.87395)
+		(at 38.1 57.15)
 		(property "Reference" "SW17"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -11038,7 +11038,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "65cef600-9ed5-4042-aebf-371300829a53")
-		(at 122.71375 111.91875)
+		(at 104.785 76.1948)
 		(property "Reference" "SW35"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -11441,7 +11441,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6952cf8a-ed50-4361-a6a3-7eb4289deaa1")
-		(at 165.57625 73.81875)
+		(at 147.6475 38.0948)
 		(property "Reference" "SW8"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -11844,7 +11844,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6aa65b3f-1a21-4d5a-a00d-6be094c4a56c")
-		(at 179.86375 111.91875)
+		(at 161.935 76.1948)
 		(property "Reference" "SW38"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -12247,7 +12247,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6b54f34e-a62a-400b-8777-8aa216358b5e")
-		(at 108.41625 73.82395)
+		(at 90.4875 38.1)
 		(property "Reference" "SW5"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -12650,7 +12650,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6dbfdcfa-07aa-4bee-96f2-ee8cb624d392")
-		(at 298.91625 150.02395)
+		(at 280.9875 114.3)
 		(property "Reference" "SW66"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -13053,7 +13053,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "71228533-7aba-4ea2-a9d2-80fb12e3bd27")
-		(at 337.01625 92.87395)
+		(at 319.0875 57.15)
 		(property "Reference" "SW31"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -13456,7 +13456,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "72bcf886-fa2f-40cc-8138-baa67c3c05b8")
-		(at 132.23875 130.96875)
+		(at 114.31 95.2448)
 		(property "Reference" "SW49"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -13859,7 +13859,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "74b6a8d9-74a1-4ce1-b4d7-b8988ca54b6d")
-		(at 267.97 150.01875)
+		(at 250.04125 114.2948)
 		(property "Reference" "SW65"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -14262,7 +14262,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "785ad605-6aba-4e7d-90b4-f817c3def781")
-		(at 251.30125 92.86875)
+		(at 233.3725 57.1448)
 		(property "Reference" "SW27"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -14665,7 +14665,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "789fd924-4e4d-4948-9acc-f29b216ccc97")
-		(at 237.01375 111.91875)
+		(at 219.085 76.1948)
 		(property "Reference" "SW41"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -15068,7 +15068,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "7a1714c6-704a-48a3-bb09-d8e5a999880c")
-		(at 146.52625 73.81875)
+		(at 128.5975 38.0948)
 		(property "Reference" "SW7"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -15471,7 +15471,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "7a3bd754-9e4d-4034-9ea9-1ef8bf1116f0")
-		(at 156.05125 92.87395)
+		(at 138.1225 57.15)
 		(property "Reference" "SW22"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -15874,7 +15874,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "7d0472df-2eec-423f-9b62-c49c6a981463")
-		(at 337.02625 111.91875)
+		(at 319.0975 76.1948)
 		(property "Reference" "SW45"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -16277,7 +16277,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "802f23e9-b92f-49c0-938c-ad20bfe9eeab")
-		(at 317.97625 130.96875)
+		(at 300.0475 95.2448)
 		(property "Reference" "SW58"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -16680,7 +16680,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-6.25U"
 		(layer "F.Cu")
 		(uuid "804db695-781e-420d-ac32-d9488285a941")
-		(at 172.70375 150.02395)
+		(at 154.775 114.3)
 		(property "Reference" "SW63"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -17111,7 +17111,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "8686e301-8b5c-46dc-b1df-c18618cf3049")
-		(at 77.46 150.02395)
+		(at 59.53125 114.3)
 		(property "Reference" "SW61"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -17514,7 +17514,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "89d35d41-7d9e-4b22-8aff-5172c518e648")
-		(at 194.15125 92.86875)
+		(at 176.2225 57.1448)
 		(property "Reference" "SW24"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -17917,7 +17917,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "8aa02606-0f18-4597-bad1-5f32ed1da6aa")
-		(at 94.13875 130.96875)
+		(at 76.21 95.2448)
 		(property "Reference" "SW47"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -18320,7 +18320,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-2.25U"
 		(layer "F.Cu")
 		(uuid "921ea5b6-3521-4da2-917d-26ee88d290ad")
-		(at 306.02825 111.92395)
+		(at 288.0995 76.2)
 		(property "Reference" "SW44"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -18751,7 +18751,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "963f52e9-a0d3-489f-9092-3477c08beb59")
-		(at 184.61625 73.82395)
+		(at 166.6875 38.1)
 		(property "Reference" "SW9"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -19154,7 +19154,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "968bc60f-fd5b-4802-940c-334534666a81")
-		(at 222.72625 73.81875)
+		(at 204.7975 38.0948)
 		(property "Reference" "SW11"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -19557,7 +19557,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "9779d9bf-67a1-462f-b49d-da1b29fbd07f")
-		(at 241.77625 73.81875)
+		(at 223.8475 38.0948)
 		(property "Reference" "SW12"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -19960,11 +19960,11 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "9efc8cff-9c68-4bae-9d28-ef7623aa8f02")
-		(at 51.26625 73.82395)
+		(at 33.3375 38.1)
 		(property "Reference" "SW2"
 			(at 0 3.175 0)
 			(layer "F.Fab")
-			(uuid "5e1a6283-b257-4018-a554-9c1068fb5fd6")
+			(uuid "8bbbae38-7e70-41e3-91bf-937dbb2bfc78")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -19975,7 +19975,7 @@
 		(property "Value" "ESC"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "827585d1-bb31-4edc-9333-a5b25bf52000")
+			(uuid "d6fac1fa-c80e-48d2-925e-393f75b6eb7f")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -19988,7 +19988,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fa43cffc-27a1-437e-ba51-e289fa0c271d")
+			(uuid "917816e3-95bf-468e-b89b-df8d3f85697f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20001,7 +20001,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a3789389-e587-4d41-b87c-4344d6d827d9")
+			(uuid "ecdaf984-c4c1-4feb-8212-51e90437136b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20363,7 +20363,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-2U"
 		(layer "F.Cu")
 		(uuid "a3863301-d9ac-485d-a7ce-a9b1729eec46")
-		(at 308.44125 73.82395)
+		(at 290.5125 38.1)
 		(property "Reference" "SW15"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -20794,7 +20794,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "a3872f4e-1bc3-4627-a2ff-dea21556707b")
-		(at 279.86625 73.82395)
+		(at 261.9375 38.1)
 		(property "Reference" "SW14"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -21197,7 +21197,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "a713765f-0d24-4adb-848f-2746dc0f03f9")
-		(at 203.67625 73.82395)
+		(at 185.7475 38.1)
 		(property "Reference" "SW10"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -21600,7 +21600,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "b501e9f4-5f57-4816-a2d2-a3ecb4258d12")
-		(at 265.57875 130.96875)
+		(at 247.65 95.2448)
 		(property "Reference" "SW56"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -22003,7 +22003,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "b9b4584b-4c69-49f1-bca1-b6008db75d5b")
-		(at 275.11375 111.91875)
+		(at 257.185 76.1948)
 		(property "Reference" "SW43"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -22406,7 +22406,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "bccea2fe-ffa6-4caf-befb-4e983a3f7eb1")
-		(at 213.20125 92.87395)
+		(at 195.2725 57.15)
 		(property "Reference" "SW25"
 			(at 0 3.65125 0)
 			(layer "F.Fab")
@@ -22809,7 +22809,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "c73c2604-d646-44e7-97dc-09ec203dd746")
-		(at 103.66375 111.91875)
+		(at 85.735 76.1948)
 		(property "Reference" "SW34"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -23212,7 +23212,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "d8b74c1a-0844-4d2f-924d-249f8b58f77c")
-		(at 137.00125 92.87395)
+		(at 119.0725 57.15)
 		(property "Reference" "SW21"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -23615,7 +23615,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "d9b0da5d-3c9c-4bab-aadc-a31b0401365c")
-		(at 84.61375 111.91875)
+		(at 66.685 76.1948)
 		(property "Reference" "SW33"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -24018,7 +24018,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "df1597ce-79d9-4827-85b6-379d027a7f96")
-		(at 217.96375 111.91875)
+		(at 200.035 76.1948)
 		(property "Reference" "SW40"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -24421,7 +24421,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "e3bd7c74-8285-4333-b333-37a1084f8ad4")
-		(at 141.76375 111.92395)
+		(at 123.835 76.2)
 		(property "Reference" "SW36"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -24824,7 +24824,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "e5bb2ee9-57b1-486f-81e6-53b4807a5731")
-		(at 170.32875 130.96875)
+		(at 152.4 95.2448)
 		(property "Reference" "SW51"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -25227,7 +25227,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.75U"
 		(layer "F.Cu")
 		(uuid "e5bd4875-28a6-4312-ba8e-d3ea4a0269e8")
-		(at 291.7725 130.96875)
+		(at 273.84375 95.2448)
 		(property "Reference" "SW57"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -25630,7 +25630,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "e88a5811-f0de-4849-894d-7fdc56465285")
-		(at 53.6475 150.02395)
+		(at 35.71875 114.3)
 		(property "Reference" "SW60"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -26033,7 +26033,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "ee846c86-9928-4620-bce5-4ab77c16d062")
-		(at 189.37875 130.96875)
+		(at 171.45 95.2448)
 		(property "Reference" "SW52"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -26436,7 +26436,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "f351e072-963e-474d-b811-c014a3b912ca")
-		(at 270.35125 92.86875)
+		(at 252.4225 57.1448)
 		(property "Reference" "SW28"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -26839,7 +26839,7 @@
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "f6b0f27b-a3e9-4ccc-ae44-389f88d4616d")
-		(at 127.47625 73.81875)
+		(at 109.5475 38.0948)
 		(property "Reference" "SW6"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -27242,7 +27242,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "002ea557-6694-4f56-8318-a72e93a19fa8")
-		(at 205.86 145.09375)
+		(at 187.93125 109.3698)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
@@ -27406,7 +27406,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0102706c-a4e8-4927-9bfe-dff5372d6197")
-		(at 311.61625 116.68125 90)
+		(at 293.6875 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D43"
@@ -27729,7 +27729,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "045ebf41-3739-4ae2-ad53-f7ab99b00922")
-		(at 342.41375 78.4277 90)
+		(at 324.485 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
@@ -28052,7 +28052,7 @@
 	(footprint "UJ20-C-H-G-SMT-1-P16-TR:SAMESKY_UJ20-C-H-G-SMT-1-P16-TR"
 		(layer "B.Cu")
 		(uuid "079ebed0-0d51-4cb6-badc-0532557e1e59")
-		(at 194.04825 58.3402)
+		(at 176.1195 22.61625)
 		(property "Reference" "J3"
 			(at -2.075 11.025 180)
 			(layer "B.SilkS")
@@ -28605,7 +28605,7 @@
 	(footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm"
 		(layer "B.Cu")
 		(uuid "07d2e789-788a-4d7a-8e38-ca20ef213bc5")
-		(at 194.14125 150.01875 -90)
+		(at 176.2125 114.2948 -90)
 		(descr "TQFP, 44 Pin (JEDEC MS-026 variation ACB, 1.00mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BZ.pdf#page=658)")
 		(tags "TQFP QFP Microchip_44-Lead-Plastic-Thin-Quad-Flatpack-(PT)")
 		(property "Reference" "U1"
@@ -29457,7 +29457,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0b303a8d-3efd-41ad-8f81-5159f49769eb")
-		(at 250.4875 154.78125 90)
+		(at 232.55875 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D63"
@@ -29780,7 +29780,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0e25c0b6-fa3a-4d23-b7fd-5957d5daa45b")
-		(at 342.5725 135.73125 90)
+		(at 324.64375 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D58"
@@ -30103,7 +30103,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "163dc584-373d-4cdc-aebe-ceefb080a348")
-		(at 190.96625 141.086812 -90)
+		(at 173.0375 105.362862 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
@@ -30267,7 +30267,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "16647d8b-b6c1-4283-86f2-3d442b0f9967")
-		(at 237.7975 97.63125 90)
+		(at 219.86875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D25"
@@ -30590,7 +30590,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1c5fc382-fb9e-4aae-aff5-06ba63d057fb")
-		(at 252.085 135.73125 90)
+		(at 234.15625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D54"
@@ -30913,7 +30913,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "1d12586e-c578-488b-bc3b-873a767efe99")
-		(at 192.886598 141.08125 -90)
+		(at 174.957848 105.3573 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
@@ -31077,7 +31077,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1d628db3-bca5-4b6a-b88b-522e8c21640c")
-		(at 94.9325 78.4225 90)
+		(at 77.00375 42.69855 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D3"
@@ -31400,7 +31400,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1ed61064-cc81-4e26-baec-85ee3c484efb")
-		(at 99.685 135.73125 90)
+		(at 81.75625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D46"
@@ -31723,7 +31723,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1f4a5d59-f78e-47fe-b29d-4dfd3de1d5c6")
-		(at 194.935 135.79375 90)
+		(at 177.00625 100.0698 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D51"
@@ -32046,7 +32046,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2017c391-4d77-470e-9d5e-1df05dd7fdf2")
-		(at 180.6475 97.63125 90)
+		(at 162.71875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D22"
@@ -32369,7 +32369,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "24215210-8693-49e6-abcd-263f0869e421")
-		(at 256.8475 97.69375 90)
+		(at 238.91875 61.9698 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D26"
@@ -32692,7 +32692,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "271e5f7a-e971-46c0-ab87-42ad98822136")
-		(at 209.2325 78.4277 90)
+		(at 191.30375 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
@@ -33015,7 +33015,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2b56f3fa-9179-46ad-babc-d8a442a55cc2")
-		(at 63.96625 116.68125 90)
+		(at 46.0375 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D31"
@@ -33338,7 +33338,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "2d36397c-73b9-4e6c-872c-12d6a0c68143")
-		(at 198.90375 157.95625)
+		(at 180.975 122.2323)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C5"
@@ -33502,7 +33502,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2e4116eb-f147-4f8a-a31c-2a1d6d1ce671")
-		(at 261.61 116.68125 90)
+		(at 243.68125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D41"
@@ -33825,7 +33825,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "317b6e1d-5f9f-49e5-a32e-abd6cd209622")
-		(at 104.4475 97.63125 90)
+		(at 86.51875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D18"
@@ -34148,7 +34148,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "328261ba-b82c-46c3-8400-36c6f4c6cd09")
-		(at 147.2475 116.68125 90)
+		(at 129.31875 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D35"
@@ -34471,7 +34471,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "32ca054a-5d29-4142-9141-f903e2f08efd")
-		(at 280.66 116.68125 90)
+		(at 262.73125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D42"
@@ -34794,7 +34794,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "36f80d53-ffec-4047-ac78-f3d22f012834")
-		(at 166.36 116.68125 90)
+		(at 148.43125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D36"
@@ -35117,7 +35117,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "383fb0ae-312d-4511-9792-f3e8febb21ca")
-		(at 184.61625 153.9875 180)
+		(at 166.6875 118.26355 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
@@ -35281,7 +35281,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3c2e7fab-0954-4942-8c83-74b5acc36e8e")
-		(at 342.5725 154.78125 90)
+		(at 324.64375 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D67"
@@ -35604,7 +35604,7 @@
 	(footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "3e2124ea-736e-411b-9166-d3efc51612fa")
-		(at 197.32625 78.4277 -90)
+		(at 179.3975 42.70375 -90)
 		(descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "fuse handsolder")
 		(property "Reference" "F1"
@@ -35768,7 +35768,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3e73ec4e-7ccf-4357-9ade-7bc5301d42a3")
-		(at 178.26625 154.78125 90)
+		(at 160.3375 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D62"
@@ -36091,7 +36091,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "400b6088-a62f-4c6e-bf23-90888b4f16b5")
-		(at 342.5725 116.68125 90)
+		(at 324.64375 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D44"
@@ -36414,7 +36414,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "424962c5-cda5-4e13-8658-b7e919a2e536")
-		(at 210.81 153.54375 180)
+		(at 192.88125 117.8198 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C6"
@@ -36578,7 +36578,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "44d717ea-cb03-4fc5-b3bc-a13e517802ea")
-		(at 210.81 150.54375)
+		(at 192.88125 114.8198)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C7"
@@ -36742,7 +36742,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "44e47fb1-79c8-499d-8e00-cc8ec2aca305")
-		(at 323.5225 154.78125 90)
+		(at 305.59375 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D66"
@@ -37065,7 +37065,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "493c2f61-b325-4d6c-b456-802d26743a2b")
-		(at 188.595 78.4277 90)
+		(at 170.66625 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D8"
@@ -37388,7 +37388,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "495af581-8c52-4685-8a42-219eff7442da")
-		(at 128.26 116.68125 90)
+		(at 110.33125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D34"
@@ -37711,7 +37711,7 @@
 	(footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
 		(layer "B.Cu")
 		(uuid "4c2647fb-f77c-40f7-bf1e-b2ad9d31630f")
-		(at 206.31 152.04375 90)
+		(at 188.38125 116.3198 90)
 		(descr "SMD3225/4, Crystal, 3.2x2.5mm package, SMD, hand-soldering, http://www.txccrystal.com/images/pdf/7m-accuracy.pdf")
 		(property "Reference" "Y1"
 			(at 0 3 90)
@@ -37897,7 +37897,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "4e2bb015-3530-4145-9055-ef6844f60b95")
-		(at 274.3 154.78125 90)
+		(at 256.37125 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D64"
@@ -38220,7 +38220,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "5210de6c-0b46-4d46-96fb-46b5de79b3d0")
-		(at 113.81375 78.4277 90)
+		(at 95.885 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D4"
@@ -38543,7 +38543,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "53b75fe0-5f34-45c0-9194-f1e1897f5897")
-		(at 218.7475 97.63125 90)
+		(at 200.81875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D24"
@@ -38866,7 +38866,7 @@
 	(footprint "random-keyboard-parts:Reset_Pretty-Mask"
 		(layer "B.Cu")
 		(uuid "58142586-834c-4ea6-8b93-ad533530599c")
-		(at 157.62875 149.225)
+		(at 139.7 113.50105)
 		(property "Reference" "J1"
 			(at 0 -6 0)
 			(layer "Dwgs.User")
@@ -39107,7 +39107,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "59126109-2a8b-41be-98ce-b56cb4e42ef2")
-		(at 247.16375 78.4277 90)
+		(at 229.235 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D11"
@@ -39430,7 +39430,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "654ce878-dc19-45e3-9e49-1ecdd9acc225")
-		(at 75.8825 78.4225 90)
+		(at 57.95375 42.69855 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D2"
@@ -39753,7 +39753,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "677a3a94-4e04-499e-81d8-ff6a15875185")
-		(at 242.56 116.68125 90)
+		(at 224.63125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D40"
@@ -40076,7 +40076,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "68061f32-e9d9-4192-b167-47d6f20ef9db")
-		(at 275.8975 97.69375 90)
+		(at 257.96875 61.9698 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D27"
@@ -40399,7 +40399,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "698d4c0b-08c9-4707-8f16-d4006da5cdb9")
-		(at 59.20375 154.78125 90)
+		(at 41.275 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D59"
@@ -40722,7 +40722,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "6bab7939-fae5-4d6e-b564-3166af812e2a")
-		(at 266.21375 78.4277 90)
+		(at 248.285 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
@@ -41045,7 +41045,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "6c1d4540-ec9d-4405-b4b4-23f26fa1b002")
-		(at 213.985 135.73125 90)
+		(at 196.05625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D52"
@@ -41368,7 +41368,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "7543ec72-b90e-4f63-b713-2d2188789fa4")
-		(at 184.61625 146.05 180)
+		(at 166.6875 110.32605 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
@@ -41532,7 +41532,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "7a4c3a00-1435-47ee-83f8-e1dde7351007")
-		(at 68.72875 135.73125 90)
+		(at 50.8 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D45"
@@ -41855,7 +41855,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "7cce6b07-e1e0-4eaf-ad8a-b70d5d65521a")
-		(at 304.4725 154.84375 90)
+		(at 286.54375 119.1198 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D65"
@@ -42178,7 +42178,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "859d4c7f-845f-41c6-b476-fe7399556c25")
-		(at 83.01625 154.78125 90)
+		(at 65.0875 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D60"
@@ -42501,7 +42501,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-666"
 		(layer "B.Cu")
 		(uuid "894f3329-bf46-4006-b4df-784651a939d2")
-		(at 194.72 73.92145)
+		(at 176.79125 38.1975)
 		(descr "SOT666")
 		(tags "SOT-666")
 		(property "Reference" "U2"
@@ -42788,7 +42788,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8a290def-d44f-4a79-b518-0427cc71ac98")
-		(at 271.135 135.73125 90)
+		(at 253.20625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D55"
@@ -43111,7 +43111,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8b4c1dc2-8998-4634-8895-c233b1359cac")
-		(at 342.5725 97.63125 90)
+		(at 324.64375 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D30"
@@ -43434,7 +43434,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8d4c9b3b-9079-42de-a4b4-a1b340a0ca08")
-		(at 318.76 97.63125 90)
+		(at 300.83125 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D29"
@@ -43757,7 +43757,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8d986427-24d5-4bd5-90cb-b287b74af1e9")
-		(at 90.16 116.68125 90)
+		(at 72.23125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D32"
@@ -44080,7 +44080,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8ddf768d-716a-4130-a1bd-add94dbd7753")
-		(at 56.66375 78.4277 90)
+		(at 38.735 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
@@ -44403,7 +44403,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "8e3f8c8f-a402-40ab-9d4f-ee38a4226f0f")
-		(at 196.86 141.09375 90)
+		(at 178.93125 105.3698 90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
@@ -44567,7 +44567,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "95a3c7d3-8824-4e53-9ac4-fcd2d74d266d")
-		(at 228.11375 78.4277 90)
+		(at 210.185 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
@@ -44890,7 +44890,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "9c869a1c-ba14-4365-aa51-dcf5e82ad2f2")
-		(at 137.785 135.73125 90)
+		(at 119.85625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D48"
@@ -45213,7 +45213,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "a4f3a8b3-5e19-4e36-8a61-fa9b151bc330")
-		(at 171.1325 78.4225 90)
+		(at 153.20375 42.69855 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
@@ -45536,7 +45536,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "a9b2228e-0bbc-485d-8069-e80f6e3608e4")
-		(at 106.82875 154.78125 90)
+		(at 88.9 119.0573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D61"
@@ -45859,7 +45859,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "a9bd67f6-3c54-4247-9972-3aff1347b2c8")
-		(at 109.1475 116.68125 90)
+		(at 91.21875 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D33"
@@ -46182,7 +46182,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "aa57517c-b77c-4ff3-99db-7075e762cec3")
-		(at 118.735 135.73125 90)
+		(at 100.80625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D47"
@@ -46505,7 +46505,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "af108866-b606-4343-9097-4a19dc984d0e")
-		(at 161.5975 97.63125 90)
+		(at 143.66875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D21"
@@ -46828,7 +46828,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b57a179b-2705-451f-bb69-9db72b9d5f1e")
-		(at 175.885 135.73125 90)
+		(at 157.95625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D50"
@@ -47151,7 +47151,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b7788d40-e193-4bdb-98a8-2bffa4fcc194")
-		(at 123.435 97.63125 90)
+		(at 105.50625 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D19"
@@ -47474,7 +47474,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "bedc4b93-2e60-48dc-853b-76c92d745471")
-		(at 233.035 135.79375 90)
+		(at 215.10625 100.0698 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D53"
@@ -47797,7 +47797,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c0ce3e02-c856-46b7-b7e8-30b503b2e5b9")
-		(at 204.46 116.68125 90)
+		(at 186.53125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D38"
@@ -48120,7 +48120,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c43e65a7-011a-4aa1-b24f-27d4d4dd58a1")
-		(at 85.3975 97.63125 90)
+		(at 67.46875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D17"
@@ -48443,7 +48443,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "c4ea5741-a762-4664-b4fe-f7bfea3f0361")
-		(at 191.395 68.10895 180)
+		(at 173.46625 32.385 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
@@ -48607,7 +48607,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c535776d-4229-46d6-b38b-6dbbbe8f873c")
-		(at 156.835 135.73125 90)
+		(at 138.90625 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D49"
@@ -48930,7 +48930,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "c62ff2a9-c865-4463-8f6c-0d1862f29887")
-		(at 194.86 141.09375 90)
+		(at 176.93125 105.3698 90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C8"
@@ -49094,7 +49094,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c7f81dfd-694a-4d12-ba79-0ae7e20e6de0")
-		(at 223.51 116.68125 90)
+		(at 205.58125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D39"
@@ -49417,7 +49417,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c91a4dd4-ccdc-4ffc-bded-8871fe4a916e")
-		(at 323.5225 135.73125 90)
+		(at 305.59375 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D57"
@@ -49740,7 +49740,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "d06f692b-8b65-494f-8a07-c4e4be4a0640")
-		(at 188.86 157.95625 180)
+		(at 170.93125 122.2323 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
@@ -49904,7 +49904,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d39d3161-3fc6-4828-91d3-dd559747a12c")
-		(at 285.26375 78.4277 90)
+		(at 267.335 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
@@ -50227,7 +50227,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d61ba2f1-8302-4c64-898f-2220849131d5")
-		(at 142.5475 97.63125 90)
+		(at 124.61875 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D20"
@@ -50550,7 +50550,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d6d169fc-7418-459b-a625-5d730f5bcd4b")
-		(at 185.41 116.68125 90)
+		(at 167.48125 80.9573 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D37"
@@ -50873,7 +50873,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d9c4a514-698c-41c0-98c1-625329e991f2")
-		(at 199.635 97.63125 90)
+		(at 181.70625 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D23"
@@ -51196,7 +51196,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "da5ed58b-717e-4a80-9995-d7b588a9cf60")
-		(at 151.91375 78.4277 90)
+		(at 133.985 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
@@ -51519,7 +51519,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
 		(layer "B.Cu")
 		(uuid "e0fd2124-b715-40b3-84e0-bb894dfdaa35")
-		(at 219.76 150.19375)
+		(at 201.83125 114.4698)
 		(descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 		(tags "SPST Button Switch")
 		(property "Reference" "SW1"
@@ -51994,7 +51994,7 @@
 			)
 			(polygon
 				(pts
-					(xy 215.76 151.49375) (xy 218.76 151.49375) (xy 218.76 148.89375) (xy 215.76 148.89375)
+					(xy 197.83125 115.7698) (xy 200.83125 115.7698) (xy 200.83125 113.1698) (xy 197.83125 113.1698)
 				)
 			)
 		)
@@ -52024,7 +52024,7 @@
 			)
 			(polygon
 				(pts
-					(xy 220.76 151.49375) (xy 223.76 151.49375) (xy 223.76 148.89375) (xy 220.76 148.89375)
+					(xy 202.83125 115.7698) (xy 205.83125 115.7698) (xy 205.83125 113.1698) (xy 202.83125 113.1698)
 				)
 			)
 		)
@@ -52044,7 +52044,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e2909343-f896-42eb-946c-fe5851ac3bff")
-		(at 294.9475 97.69375 90)
+		(at 277.01875 61.9698 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D28"
@@ -52367,7 +52367,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "e393c45d-a214-4a4e-ab67-0bdfd052f4d1")
-		(at 205.91 148.04375)
+		(at 187.98125 112.3198)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
@@ -52531,7 +52531,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e6c948ee-3128-4c9f-8cac-4756c732b6af")
-		(at 132.86375 78.4277 90)
+		(at 114.935 42.70375 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D5"
@@ -52854,7 +52854,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e70363df-45c4-496f-9ea6-712b85ec93ce")
-		(at 297.32875 135.73125 90)
+		(at 279.4 100.0073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D56"
@@ -53177,7 +53177,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e76cc9ca-0fc7-4434-9ff0-5b2911459442")
-		(at 313.9805 78.27935 90)
+		(at 296.05175 42.5554 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
@@ -53500,7 +53500,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "ec0a4c01-0009-4577-9790-31c4a31bedd2")
-		(at 61.585 97.63125 90)
+		(at 43.65625 61.9073 90)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
@@ -53823,7 +53823,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "fbfb9d24-f402-421d-b7c7-6e25f8e89e95")
-		(at 196.57 68.10895)
+		(at 178.64125 32.385)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
@@ -53983,6 +53983,152 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_arc
+		(start 23.8125 30.1625)
+		(mid 24.277468 29.039968)
+		(end 25.4 28.575)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "86bf6465-9456-48d4-93ce-eb1381e6de42")
+	)
+	(gr_line
+		(start 23.8125 122.2375)
+		(end 23.8125 30.1625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "92a8abc6-e84c-4a25-8146-82cfeadcc4b6")
+	)
+	(gr_line
+		(start 25.4 28.575)
+		(end 169.06875 28.575)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "61ad5f6b-3a6f-4b23-bce7-519f7ca51749")
+	)
+	(gr_arc
+		(start 25.4 123.825)
+		(mid 24.277468 123.360032)
+		(end 23.8125 122.2375)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "00edcdc3-8cda-4a54-8ab7-0af8d8904bdb")
+	)
+	(gr_line
+		(start 170.65625 23.8125)
+		(end 170.65625 26.9875)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ba511cae-4ef1-4236-9434-0695d82e5fb2")
+	)
+	(gr_line
+		(start 170.65625 23.8125)
+		(end 181.76875 23.8125)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6005c2e9-73ec-4775-9ace-f522fcca7d70")
+	)
+	(gr_arc
+		(start 170.65625 26.9875)
+		(mid 170.191282 28.110032)
+		(end 169.06875 28.575)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e853220c-9578-472c-958b-7e3a74c77ea7")
+	)
+	(gr_line
+		(start 181.76875 26.9875)
+		(end 181.76875 23.8125)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4f157293-3f6d-480a-9659-878d9e31797a")
+	)
+	(gr_arc
+		(start 183.35625 28.575)
+		(mid 182.233718 28.110032)
+		(end 181.76875 26.9875)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bf5a3edf-458b-4a68-a1e3-d5aef6a321ee")
+	)
+	(gr_line
+		(start 183.35625 28.575)
+		(end 327.025 28.575)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "af416e0c-c8b9-4d75-848e-39a80e661506")
+	)
+	(gr_arc
+		(start 327.025 28.575)
+		(mid 328.147532 29.039968)
+		(end 328.6125 30.1625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2b6198cf-d47a-4ad7-8df2-1e099e62c4cf")
+	)
+	(gr_line
+		(start 327.025 123.825)
+		(end 25.4 123.825)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "39bb561b-b2e8-4f03-ab7c-60353692e979")
+	)
+	(gr_line
+		(start 328.6125 30.1625)
+		(end 328.6125 122.2375)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4efeb50e-d6eb-47cb-8acb-6c004ca5dd06")
+	)
+	(gr_arc
+		(start 328.6125 122.2375)
+		(mid 328.147532 123.360032)
+		(end 327.025 123.825)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3b15583a-b730-429f-b0fd-704c7fcac43c")
 	)
 	(embedded_fonts no)
 )
