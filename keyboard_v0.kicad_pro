@@ -76,7 +76,60 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|171649500|23812500|6005c2e9-73ec-4775-9ace-f522fcca7d70|f58bf54d-42bd-42cf-ad5a-583b22f20529",
+          ""
+        ],
+        [
+          "silk_edge_clearance|180589500|23812500|6005c2e9-73ec-4775-9ace-f522fcca7d70|bb1ead87-8f18-4329-ad28-323b4ae17949",
+          ""
+        ],
+        [
+          "solder_mask_bridge|173219500|29386250|29852539-bb82-4148-a9ee-53e1228055d6|b121c648-f7fd-4b5c-8c12-a15ffc494951",
+          ""
+        ],
+        [
+          "solder_mask_bridge|174019500|29386250|b121c648-f7fd-4b5c-8c12-a15ffc494951|b8339bdc-8fb5-415e-9468-f5402e8b3ec7",
+          ""
+        ],
+        [
+          "solder_mask_bridge|174719500|29386250|773e96e9-e27f-4467-921e-4f477283167d|b8339bdc-8fb5-415e-9468-f5402e8b3ec7",
+          ""
+        ],
+        [
+          "solder_mask_bridge|175019500|29386250|773e96e9-e27f-4467-921e-4f477283167d|f8cadf3a-4c6c-4efa-b7d8-ede0423ea571",
+          ""
+        ],
+        [
+          "solder_mask_bridge|175719500|29386250|f8145755-0ef5-43af-b0a9-9406106b2d0e|f8cadf3a-4c6c-4efa-b7d8-ede0423ea571",
+          ""
+        ],
+        [
+          "solder_mask_bridge|176019500|29386250|f8145755-0ef5-43af-b0a9-9406106b2d0e|b01e0d78-44a1-4dc2-a2ec-98a739ba839e",
+          ""
+        ],
+        [
+          "solder_mask_bridge|176519500|29386250|b01e0d78-44a1-4dc2-a2ec-98a739ba839e|a803a9f2-8d19-40b3-9733-70fcfa381793",
+          ""
+        ],
+        [
+          "solder_mask_bridge|177219500|29386250|025c1e8c-7f02-4e3a-9f24-6c3e563396bf|a803a9f2-8d19-40b3-9733-70fcfa381793",
+          ""
+        ],
+        [
+          "solder_mask_bridge|177519500|29386250|025c1e8c-7f02-4e3a-9f24-6c3e563396bf|9d985483-9c14-40cb-a39e-0acc70b32732",
+          ""
+        ],
+        [
+          "solder_mask_bridge|178219500|29386250|b0314099-8564-4726-947a-5d84048b9ad7|9d985483-9c14-40cb-a39e-0acc70b32732",
+          ""
+        ],
+        [
+          "solder_mask_bridge|179019500|29386250|9bfa5adf-6552-4913-a44b-fe9673e170e4|b0314099-8564-4726-947a-5d84048b9ad7",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -558,6 +611,10 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VCC"
       }
     ]
   },
